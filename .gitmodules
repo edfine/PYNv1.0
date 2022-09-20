@@ -1,0 +1,3 @@
+[submodule "src/data/recommender"]
+	path = src/data/recommender
+	url = https://github.com/edfine/recommender.git
